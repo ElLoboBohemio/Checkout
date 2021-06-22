@@ -194,6 +194,10 @@ h3 {
   text-align: center;
 }
 
+.footer__p {
+  margin: 10px 0;
+}
+
 /*Media Querys*/
 
 @media (min-width: 769px) {
